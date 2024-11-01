@@ -47,7 +47,7 @@ header nav li a {
 
 /* Estilo 4*/
 
-hearder .container {
+header .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
